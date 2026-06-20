@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akanksha Sharma</h1>
-<h3 align="center">MCA Student | Java Developer | Full Stack Developer</h3>
+<h3 align="center">Java Developer | Full Stack Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=Akanksha0808-git&label=Profile%20Views&color=brightgreen&style=for-the-badge)
 # 💫 About Me:
