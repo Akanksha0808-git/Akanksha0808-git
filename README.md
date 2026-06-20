@@ -1,11 +1,14 @@
 ## Hi there 👋
-# Akanksha0809
-PROFILE
 ![](https://komarev.com/ghpvc/?username=Akanksha0808-git&label=Profile%20Views&color=brightgreen&style=for-the-badge)
 # 💫 About Me:
 🔭 I’m currently working on Java, Data Structures & Algorithms, and Full Stack Development projects<br><br>👯 I’m looking to collaborate on Web Development and Open Source Projects<br><br>🤝 I’m looking for help with System Design, Advanced DSA, and Backend Development<br><br>🌱 I’m currently learning Java, Spring Boot, SAP S/4HANA, and MERN Stack Development<br><br>💬 Ask me about Java, DSA, ReactJS, NodeJS, MongoDB, and Web Development<br><br>⚡ Fun fact: I enjoy combining creativity with technology through designing, painting, and coding innovative projects.
 
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Akanksha0808-git&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api?username=Akanksha0808-git&theme=tokyonight&show_icons=true)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akanksharma88) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akanksha-sharma-0808ak) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/akanksharma0829) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Akanksharma0808) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akanksharma0829@gmail.com) 
 
